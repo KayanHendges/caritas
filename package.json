@@ -1,0 +1,9 @@
+{
+  "name": "caritas",
+  "version": "0.0.1",
+  "description": "Sistema de Auditoria de campanhas e Direcionamento de pessoas",
+  "main": "index.js",
+  "repository": "https://github.com/KayanHendges/caritas.git",
+  "author": "Kayan Hendges e Paulo Potter",
+  "license": "MIT"
+}
